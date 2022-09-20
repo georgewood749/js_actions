@@ -3,13 +3,6 @@
   "version": "1.0.2",
   "description": "\"js actions exercises\"",
   "main": "exercise.js",
-  "keywords": [
-    "futureproof",
-    "exercise",
-    "kai",
-    "george",
-    "dave"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/georgewood749/js_actions.git"
   },
+  "keywords": [
+    "futureproof",
+    "exercise",
+    "kai",
+    "george",
+    "dave"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
