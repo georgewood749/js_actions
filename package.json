@@ -1,9 +1,15 @@
 {
   "name": "js_actions_gkd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"js actions exercises\"",
   "main": "exercise.js",
-  "keywords": ["futureproof", "exercise", "kai", "george", "dave"],
+  "keywords": [
+    "futureproof",
+    "exercise",
+    "kai",
+    "george",
+    "dave"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
