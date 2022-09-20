@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "\"js actions exercises\"",
   "main": "exercise.js",
+  "keywords": ["futureproof", "exercise", "kai", "george", "dave"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
