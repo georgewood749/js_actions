@@ -1,6 +1,6 @@
 {
   "name": "js_actions_gkd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "\"js actions exercises\"",
   "main": "exercise.js",
   "scripts": {
