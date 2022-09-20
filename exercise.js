@@ -42,3 +42,4 @@ const myFunction = (length, destination, country="London") => `person is travell
 
 console.log(myFunction(3, "Argentina"))
 
+//Nice work
